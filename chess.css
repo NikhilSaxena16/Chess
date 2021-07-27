@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: black;	
+}
+.cb{
+	width: 640px;
+	height: 550px;
+	margin: 20px;
+	border: 25px outset rgba(210, 105, 30,0.3);
+	left: 25%;
+	position: absolute;
+}
+.black{
+	width: 80px;
+	height: 68.7px;
+	float: left;
+	background-color: #fff;
+	font-size: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
+.white{
+	width: 80px;
+	height: 68.7px;
+	float: left;
+	background-color: #999;
+	font-size: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
